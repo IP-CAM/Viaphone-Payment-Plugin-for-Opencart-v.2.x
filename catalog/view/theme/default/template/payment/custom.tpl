@@ -1,1 +1,0 @@
-HTML Form with Hidden fields for your payment processor
